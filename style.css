@@ -372,6 +372,13 @@ color: var(--white);
     color: rgba(252, 240, 255, 0.6);
 }
 
+.investor {
+    line-height: 25.6px;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: rgba(252, 240, 255, 0.6);
+}
+
 .offer p {
     line-height: 160%;
     text-transform: capitalize;
